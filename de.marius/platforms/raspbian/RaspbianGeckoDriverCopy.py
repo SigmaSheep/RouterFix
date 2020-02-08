@@ -25,8 +25,8 @@ class RaspbianGeckDriverCopy(BaseGeckoDriverCopy):
 
     def getDriverPath(self):
         output = subprocess.Popen(['cat', '/proc/cpuinfo'], stdout=subprocess.PIPE).communicate()[0]
-        if output.find("ARMv6".encode()) != -1:
-            return "drivers/gecko/arm6hf/geckodriver"
-        else:
-            return "drivers/gecko/arm7hf/geckodriver"
-            # return "drivers/chrome/arm6/chromedriver"
+        # if output.find("ARMv6".encode()) != -1:
+        #     return "drivers/gecko/arm6hf/geckodriver"
+        # else:
+        #     return "drivers/gecko/arm7hf/geckodriver"
+            return "drivers/chrome/arm6/chromedriver"

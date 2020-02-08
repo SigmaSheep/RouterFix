@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a211bba4-5f13-4e9e-b381-438aa69582bd" name="ParallelsUbuntu" url="http://192.168.64.2">
+        <fileTransfer host="192.168.64.2" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d8ffc889-7680-4dc4-9580-afb6bb054927" name="Raspi-Zero" url="http://raspberrypi-zero.local">
+        <fileTransfer host="raspberrypi-zero.local" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dd0fa31b-d9e0-4b60-bc18-1c941b2bdb5d" name="Raspi_3" url="http://192.168.0.24">
+        <fileTransfer host="192.168.0.24" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

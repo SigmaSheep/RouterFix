@@ -1,0 +1,541 @@
+2020-02-05 22:08:09,494 
+2020-02-05 22:08:09,495 ####### Router Automator #######
+2020-02-05 22:08:09,496 Discovered platform: Platform.win_64
+2020-02-05 22:08:09,496 No initialization needed for this platform
+2020-02-05 22:08:09,497 
+2020-02-05 22:08:09,497 Performing action: reboot_archer_c2_openwrt
+2020-02-05 22:08:09,497 IP: http://192.168.0.2 username: root password: root tasks: ['login', 'reboot']
+2020-02-05 22:09:04,635 
+2020-02-05 22:09:04,635 ####### Router Automator #######
+2020-02-05 22:09:04,637 Discovered platform: Platform.win_64
+2020-02-05 22:09:04,637 No initialization needed for this platform
+2020-02-05 22:09:04,638 
+2020-02-05 22:09:04,638 Performing action: reboot_archer_c2_openwrt
+2020-02-05 22:09:04,639 IP: http://192.168.0.2 username: root password: root tasks: ['login', 'reboot']
+2020-02-05 22:09:09,542 
+2020-02-05 22:09:09,542 ####### Router Automator #######
+2020-02-05 22:09:09,544 Discovered platform: Platform.win_64
+2020-02-05 22:09:09,544 No initialization needed for this platform
+2020-02-05 22:09:09,545 
+2020-02-05 22:09:09,545 Performing action: reboot_archer_c2_openwrt
+2020-02-05 22:09:09,545 IP: http://192.168.0.2 username: root password: root tasks: ['login', 'reboot']
+2020-02-05 22:14:25,910 
+2020-02-05 22:14:25,910 ####### Router Automator #######
+2020-02-05 22:14:25,912 Discovered platform: Platform.win_64
+2020-02-05 22:14:25,912 No initialization needed for this platform
+2020-02-05 22:14:25,913 
+2020-02-05 22:14:25,913 Performing action: reboot_archer_c7
+2020-02-05 22:14:25,913 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-05 22:14:57,643 
+2020-02-05 22:14:57,643 ####### Router Automator #######
+2020-02-05 22:14:57,645 Discovered platform: Platform.win_64
+2020-02-05 22:14:57,645 No initialization needed for this platform
+2020-02-05 22:14:57,646 
+2020-02-05 22:14:57,646 Performing action: reboot_archer_c7
+2020-02-05 22:14:57,646 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-05 22:15:42,352 
+2020-02-05 22:15:42,352 ####### Router Automator #######
+2020-02-05 22:15:42,353 Discovered platform: Platform.win_64
+2020-02-05 22:15:42,354 No initialization needed for this platform
+2020-02-05 22:15:42,354 
+2020-02-05 22:15:42,354 Performing action: reboot_archer_c7
+2020-02-05 22:15:42,355 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-05 22:15:50,344 Performed task: login
+2020-02-05 22:15:50,472 Performing task 'reboot' produced exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-05 22:15:50,473 Performed task: reboot
+2020-02-05 22:15:50,541 Finished action: reboot_archer_c7
+2020-02-05 22:15:50,542 
+2020-02-05 22:15:50,544 ##### Router Automator Done #####
+2020-02-05 22:15:50,544 
+2020-02-05 22:18:22,244 
+2020-02-05 22:18:22,244 ####### Router Automator #######
+2020-02-05 22:18:22,245 Discovered platform: Platform.win_64
+2020-02-05 22:18:22,245 No initialization needed for this platform
+2020-02-05 22:18:22,246 
+2020-02-05 22:18:22,246 Performing action: reboot_archer_c7
+2020-02-05 22:18:22,246 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-05 22:18:30,302 Performed task: login
+2020-02-05 22:18:30,349 Performing task 'reboot' produced exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-05 22:18:30,350 Performed task: reboot
+2020-02-05 22:18:30,393 Finished action: reboot_archer_c7
+2020-02-05 22:18:30,393 
+2020-02-05 22:18:30,397 ##### Router Automator Done #####
+2020-02-05 22:18:30,397 
+2020-02-05 22:47:16,358 
+2020-02-05 22:47:16,359 ####### Router Automator #######
+2020-02-05 22:47:16,360 Discovered platform: Platform.win_64
+2020-02-05 22:47:16,360 No initialization needed for this platform
+2020-02-05 22:47:16,360 
+2020-02-05 22:47:16,360 Performing action: reboot_archer_c7
+2020-02-05 22:47:16,360 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-05 22:47:24,375 Performed task: login
+2020-02-05 22:47:24,447 Performing task 'reboot' produced exception: Message: element not interactable
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-05 22:47:24,450 Performed task: reboot
+2020-02-05 22:47:24,494 Finished action: reboot_archer_c7
+2020-02-05 22:47:24,494 
+2020-02-05 22:47:24,497 ##### Router Automator Done #####
+2020-02-05 22:47:24,497 
+2020-02-06 19:12:15,899 
+2020-02-06 19:12:15,899 ####### Router Automator #######
+2020-02-06 19:12:15,899 Discovered platform: Platform.win_64
+2020-02-06 19:12:15,899 No initialization needed for this platform
+2020-02-06 19:12:15,915 
+2020-02-06 19:12:15,915 Performing action: reboot_archer_c7
+2020-02-06 19:12:15,915 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:12:23,867 Performed task: login
+2020-02-06 19:12:29,916 Unknown exception while performing task 'reboot'
+2020-02-06 19:12:29,916 Performed task: reboot
+2020-02-06 19:12:31,953 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022ABFF1CC08>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/341159bc6340696217090577678cebce/window
+2020-02-06 19:12:34,008 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022ABFF3F508>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/341159bc6340696217090577678cebce/window
+2020-02-06 19:12:43,512 
+2020-02-06 19:12:43,512 ####### Router Automator #######
+2020-02-06 19:12:43,512 Discovered platform: Platform.win_64
+2020-02-06 19:12:43,512 No initialization needed for this platform
+2020-02-06 19:12:43,512 
+2020-02-06 19:12:43,512 Performing action: reboot_archer_c7
+2020-02-06 19:12:43,512 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:12:51,672 Performed task: login
+2020-02-06 19:14:27,507 Unknown exception while performing task 'reboot'
+2020-02-06 19:14:27,507 Performed task: reboot
+2020-02-06 19:14:29,541 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F726107D08>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/51372c3342fb9cc2d796ed78a90e335c/window
+2020-02-06 19:14:35,308 
+2020-02-06 19:14:35,308 ####### Router Automator #######
+2020-02-06 19:14:35,308 Discovered platform: Platform.win_64
+2020-02-06 19:14:35,308 No initialization needed for this platform
+2020-02-06 19:14:35,308 
+2020-02-06 19:14:35,308 Performing action: reboot_archer_c7
+2020-02-06 19:14:35,308 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:14:43,473 Performed task: login
+2020-02-06 19:16:45,414 Unknown exception while performing task 'reboot'
+2020-02-06 19:16:45,414 Performed task: reboot
+2020-02-06 19:16:45,429 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/e20be85ea3bfe3b016d9d61342c8e737/window
+2020-02-06 19:52:29,611 
+2020-02-06 19:52:29,611 ####### Router Automator #######
+2020-02-06 19:52:29,611 Discovered platform: Platform.win_64
+2020-02-06 19:52:29,611 No initialization needed for this platform
+2020-02-06 19:52:29,626 
+2020-02-06 19:52:29,626 Performing action: reboot_archer_c7
+2020-02-06 19:52:29,626 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:52:37,733 Performed task: login
+2020-02-06 19:53:35,992 Unknown exception while performing task 'reboot'
+2020-02-06 19:53:35,992 Performed task: reboot
+2020-02-06 19:53:38,021 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023500F4F648>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6a13e1ceeac7b6acb600b8981d99f216/window
+2020-02-06 19:53:40,035 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023500F4F188>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6a13e1ceeac7b6acb600b8981d99f216/window
+2020-02-06 19:53:42,041 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023500F4F908>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6a13e1ceeac7b6acb600b8981d99f216/window
+2020-02-06 19:53:53,364 
+2020-02-06 19:53:53,364 ####### Router Automator #######
+2020-02-06 19:53:53,364 Discovered platform: Platform.win_64
+2020-02-06 19:53:53,364 No initialization needed for this platform
+2020-02-06 19:53:53,364 
+2020-02-06 19:53:53,364 Performing action: reboot_archer_c7
+2020-02-06 19:53:53,364 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:54:01,574 Performed task: login
+2020-02-06 19:54:35,533 Performing task 'reboot' produced exception: name 'mainFrame' is not defined
+2020-02-06 19:54:35,533 Performed task: reboot
+2020-02-06 19:54:35,627 Finished action: reboot_archer_c7
+2020-02-06 19:54:35,627 
+2020-02-06 19:54:35,630 ##### Router Automator Done #####
+2020-02-06 19:54:35,630 
+2020-02-06 19:55:18,673 
+2020-02-06 19:55:18,673 ####### Router Automator #######
+2020-02-06 19:55:18,688 Discovered platform: Platform.win_64
+2020-02-06 19:55:18,688 No initialization needed for this platform
+2020-02-06 19:55:18,688 
+2020-02-06 19:55:18,688 Performing action: reboot_archer_c7
+2020-02-06 19:55:18,688 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:55:26,781 Performed task: login
+2020-02-06 19:55:49,966 Performing task 'reboot' produced exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-06 19:55:49,968 Performed task: reboot
+2020-02-06 19:55:50,042 Finished action: reboot_archer_c7
+2020-02-06 19:55:50,043 
+2020-02-06 19:55:50,044 ##### Router Automator Done #####
+2020-02-06 19:55:50,046 
+2020-02-06 19:57:34,140 
+2020-02-06 19:57:34,156 ####### Router Automator #######
+2020-02-06 19:57:34,156 Discovered platform: Platform.win_64
+2020-02-06 19:57:34,156 No initialization needed for this platform
+2020-02-06 19:57:34,156 
+2020-02-06 19:57:34,156 Performing action: reboot_archer_c7
+2020-02-06 19:57:34,156 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:57:42,286 Performed task: login
+2020-02-06 19:57:44,413 Performing task 'reboot' produced exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-06 19:57:44,413 Performed task: reboot
+2020-02-06 19:57:44,473 Finished action: reboot_archer_c7
+2020-02-06 19:57:44,474 
+2020-02-06 19:57:44,475 ##### Router Automator Done #####
+2020-02-06 19:57:44,476 
+2020-02-06 19:58:22,054 
+2020-02-06 19:58:22,054 ####### Router Automator #######
+2020-02-06 19:58:22,054 Discovered platform: Platform.win_64
+2020-02-06 19:58:22,054 No initialization needed for this platform
+2020-02-06 19:58:22,054 
+2020-02-06 19:58:22,054 Performing action: reboot_archer_c7
+2020-02-06 19:58:22,054 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:58:30,187 Performed task: login
+2020-02-06 19:58:32,358 Performing task 'reboot' produced exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-06 19:58:32,358 Performed task: reboot
+2020-02-06 19:58:32,436 Finished action: reboot_archer_c7
+2020-02-06 19:58:32,436 
+2020-02-06 19:58:32,436 ##### Router Automator Done #####
+2020-02-06 19:58:32,436 
+2020-02-06 19:59:11,258 
+2020-02-06 19:59:11,258 ####### Router Automator #######
+2020-02-06 19:59:11,274 Discovered platform: Platform.win_64
+2020-02-06 19:59:11,274 No initialization needed for this platform
+2020-02-06 19:59:11,274 
+2020-02-06 19:59:11,274 Performing action: reboot_archer_c7
+2020-02-06 19:59:11,274 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 19:59:24,983 Performed task: login
+2020-02-06 20:00:57,465 Unknown exception while performing task 'reboot'
+2020-02-06 20:00:57,465 Performed task: reboot
+2020-02-06 20:01:27,871 
+2020-02-06 20:01:27,871 ####### Router Automator #######
+2020-02-06 20:01:27,887 Discovered platform: Platform.win_64
+2020-02-06 20:01:27,887 No initialization needed for this platform
+2020-02-06 20:01:27,887 
+2020-02-06 20:01:27,887 Performing action: reboot_archer_c7
+2020-02-06 20:01:27,887 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:01:36,104 Performed task: login
+2020-02-06 20:02:03,232 Unknown exception while performing task 'reboot'
+2020-02-06 20:02:03,232 Performed task: reboot
+2020-02-06 20:02:05,291 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024472E2DA88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9bad99d88c400468021891c4a51c7d0c/window
+2020-02-06 20:02:10,913 
+2020-02-06 20:02:10,913 ####### Router Automator #######
+2020-02-06 20:02:10,913 Discovered platform: Platform.win_64
+2020-02-06 20:02:10,913 No initialization needed for this platform
+2020-02-06 20:02:10,913 
+2020-02-06 20:02:10,913 Performing action: reboot_archer_c7
+2020-02-06 20:02:10,913 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:02:18,968 Performed task: login
+2020-02-06 20:05:38,751 Unknown exception while performing task 'reboot'
+2020-02-06 20:05:38,751 Performed task: reboot
+2020-02-06 20:05:40,777 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021EE1E8DB88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9ce17a847a17918ff335fa24e43c3f70/window
+2020-02-06 20:05:42,792 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021EE1E8DAC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9ce17a847a17918ff335fa24e43c3f70/window
+2020-02-06 20:05:44,826 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021EE1E8DA08>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9ce17a847a17918ff335fa24e43c3f70/window
+2020-02-06 20:05:49,011 
+2020-02-06 20:05:49,011 ####### Router Automator #######
+2020-02-06 20:05:49,011 Discovered platform: Platform.win_64
+2020-02-06 20:05:49,011 No initialization needed for this platform
+2020-02-06 20:05:49,011 
+2020-02-06 20:05:49,011 Performing action: reboot_archer_c7
+2020-02-06 20:05:49,011 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:06:06,031 
+2020-02-06 20:06:06,031 ####### Router Automator #######
+2020-02-06 20:06:06,032 Discovered platform: Platform.win_64
+2020-02-06 20:06:06,033 No initialization needed for this platform
+2020-02-06 20:06:06,034 
+2020-02-06 20:06:06,034 Performing action: reboot_archer_c7
+2020-02-06 20:06:06,034 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:06:14,566 Performed task: login
+2020-02-06 20:06:54,022 Performing task 'reboot' produced exception: Message: chrome not reachable
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-06 20:08:25,746 Performed task: reboot
+2020-02-06 20:08:30,316 
+2020-02-06 20:08:30,316 ####### Router Automator #######
+2020-02-06 20:08:30,316 Discovered platform: Platform.win_64
+2020-02-06 20:08:30,316 No initialization needed for this platform
+2020-02-06 20:08:30,316 
+2020-02-06 20:08:30,316 Performing action: reboot_archer_c7
+2020-02-06 20:08:30,316 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:08:38,350 Performed task: login
+2020-02-06 20:10:57,367 Unknown exception while performing task 'reboot'
+2020-02-06 20:10:57,367 Performed task: reboot
+2020-02-06 20:10:57,373 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/307e874241ee4a223df42bc70eedb6e5/window
+2020-02-06 20:10:59,376 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002378968D388>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/307e874241ee4a223df42bc70eedb6e5/window
+2020-02-06 20:11:29,477 
+2020-02-06 20:11:29,477 ####### Router Automator #######
+2020-02-06 20:11:29,478 Discovered platform: Platform.win_64
+2020-02-06 20:11:29,479 No initialization needed for this platform
+2020-02-06 20:11:29,479 
+2020-02-06 20:11:29,480 Performing action: reboot_archer_c7
+2020-02-06 20:11:29,480 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:11:37,549 Performed task: login
+2020-02-06 20:24:17,673 
+2020-02-06 20:24:17,674 ####### Router Automator #######
+2020-02-06 20:24:17,675 Discovered platform: Platform.win_64
+2020-02-06 20:24:17,675 No initialization needed for this platform
+2020-02-06 20:24:17,676 
+2020-02-06 20:24:17,676 Performing action: reboot_archer_c7
+2020-02-06 20:24:17,677 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:24:25,760 Performed task: login
+2020-02-06 20:24:32,132 Performing task 'reboot' produced exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.87)
+
+2020-02-06 20:24:32,137 Performed task: reboot
+2020-02-06 20:24:32,221 Finished action: reboot_archer_c7
+2020-02-06 20:24:32,222 
+2020-02-06 20:24:32,224 ##### Router Automator Done #####
+2020-02-06 20:24:32,224 
+2020-02-06 20:25:06,629 
+2020-02-06 20:25:06,629 ####### Router Automator #######
+2020-02-06 20:25:06,630 Discovered platform: Platform.win_64
+2020-02-06 20:25:06,630 No initialization needed for this platform
+2020-02-06 20:25:06,631 
+2020-02-06 20:25:06,631 Performing action: reboot_archer_c7
+2020-02-06 20:25:06,632 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:25:14,705 Performed task: login
+2020-02-06 20:27:12,127 Unknown exception while performing task 'reboot'
+2020-02-06 20:27:12,128 Performed task: reboot
+2020-02-06 20:27:14,132 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022680E4D6C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c49cfc7ce83edfc9574e20d8ad457ed3/window
+2020-02-06 20:27:16,135 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022680E4D3C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c49cfc7ce83edfc9574e20d8ad457ed3/window
+2020-02-06 20:27:20,826 
+2020-02-06 20:27:20,826 ####### Router Automator #######
+2020-02-06 20:27:20,828 Discovered platform: Platform.win_64
+2020-02-06 20:27:20,828 No initialization needed for this platform
+2020-02-06 20:27:20,829 
+2020-02-06 20:27:20,830 Performing action: reboot_archer_c7
+2020-02-06 20:27:20,830 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:27:28,847 Performed task: login
+2020-02-06 20:28:28,913 Unknown exception while performing task 'reboot'
+2020-02-06 20:28:28,914 Performed task: reboot
+2020-02-06 20:28:28,932 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/6538c69974300e8f9ef7a7d5048524a3/window
+2020-02-06 20:28:30,934 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001823E036FC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6538c69974300e8f9ef7a7d5048524a3/window
+2020-02-06 20:28:32,940 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001823E1BD388>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6538c69974300e8f9ef7a7d5048524a3/window
+2020-02-06 20:28:48,855 
+2020-02-06 20:28:48,855 ####### Router Automator #######
+2020-02-06 20:28:48,856 Discovered platform: Platform.win_64
+2020-02-06 20:28:48,857 No initialization needed for this platform
+2020-02-06 20:28:48,858 
+2020-02-06 20:28:48,858 Performing action: reboot_archer_c7
+2020-02-06 20:28:48,858 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:28:56,978 Performed task: login
+2020-02-06 20:29:03,248 Performing task 'reboot' produced exception: switch_to_frame() takes 2 positional arguments but 3 were given
+2020-02-06 20:29:03,249 Performed task: reboot
+2020-02-06 20:29:03,311 Finished action: reboot_archer_c7
+2020-02-06 20:29:03,311 
+2020-02-06 20:29:03,313 ##### Router Automator Done #####
+2020-02-06 20:29:03,313 
+2020-02-06 20:32:23,062 
+2020-02-06 20:32:23,062 ####### Router Automator #######
+2020-02-06 20:32:23,062 Discovered platform: Platform.win_64
+2020-02-06 20:32:23,062 No initialization needed for this platform
+2020-02-06 20:32:23,062 
+2020-02-06 20:32:23,062 Performing action: reboot_archer_c7
+2020-02-06 20:32:23,062 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:32:31,179 Performed task: login
+2020-02-06 20:32:37,452 Performing task 'reboot' produced exception: Message: bottomLeftFrame
+
+2020-02-06 20:32:37,452 Performed task: reboot
+2020-02-06 20:32:37,515 Finished action: reboot_archer_c7
+2020-02-06 20:32:37,531 
+2020-02-06 20:32:37,531 ##### Router Automator Done #####
+2020-02-06 20:32:37,531 
+2020-02-06 20:33:35,740 
+2020-02-06 20:33:35,740 ####### Router Automator #######
+2020-02-06 20:33:35,740 Discovered platform: Platform.win_64
+2020-02-06 20:33:35,740 No initialization needed for this platform
+2020-02-06 20:33:35,740 
+2020-02-06 20:33:35,740 Performing action: reboot_archer_c7
+2020-02-06 20:33:35,740 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:33:43,812 Performed task: login
+2020-02-06 20:35:30,646 Unknown exception while performing task 'reboot'
+2020-02-06 20:35:30,646 Performed task: reboot
+2020-02-06 20:35:32,686 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002280CA7AE08>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e276d554bd554be42639fe4778236ccb/window
+2020-02-06 20:35:37,038 
+2020-02-06 20:35:37,038 ####### Router Automator #######
+2020-02-06 20:35:37,038 Discovered platform: Platform.win_64
+2020-02-06 20:35:37,038 No initialization needed for this platform
+2020-02-06 20:35:37,038 
+2020-02-06 20:35:37,038 Performing action: reboot_archer_c7
+2020-02-06 20:35:37,053 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot', 'logout']
+2020-02-06 20:35:45,172 Performed task: login
+2020-02-06 20:35:51,514 Performed task: reboot
+2020-02-06 20:36:23,625 Unknown exception while performing task 'logout'
+2020-02-06 20:36:23,625 Performed task: logout
+2020-02-06 20:36:25,679 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000185DE42D6C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebbc48915c8405cd1e08ebc8917b5e0f/window
+2020-02-06 20:36:27,691 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000185DE42D588>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebbc48915c8405cd1e08ebc8917b5e0f/window
+2020-02-06 20:36:29,700 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000185DE42D748>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebbc48915c8405cd1e08ebc8917b5e0f/window
+2020-02-06 20:36:58,363 
+2020-02-06 20:36:58,363 ####### Router Automator #######
+2020-02-06 20:36:58,363 Discovered platform: Platform.win_64
+2020-02-06 20:36:58,363 No initialization needed for this platform
+2020-02-06 20:36:58,363 
+2020-02-06 20:36:58,378 Performing action: reboot_archer_c7
+2020-02-06 20:36:58,378 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:37:06,466 Performed task: login
+2020-02-06 20:37:12,727 Performing task 'reboot' produced exception: name 'logOut' is not defined
+2020-02-06 20:37:12,727 Performed task: reboot
+2020-02-06 20:37:12,758 Finished action: reboot_archer_c7
+2020-02-06 20:37:12,758 
+2020-02-06 20:37:12,774 ##### Router Automator Done #####
+2020-02-06 20:37:12,774 
+2020-02-06 20:38:37,515 
+2020-02-06 20:38:37,516 ####### Router Automator #######
+2020-02-06 20:38:37,517 Discovered platform: Platform.win_64
+2020-02-06 20:38:37,517 No initialization needed for this platform
+2020-02-06 20:38:37,518 
+2020-02-06 20:38:37,518 Performing action: reboot_archer_c7
+2020-02-06 20:38:37,519 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:38:45,723 Performed task: login
+2020-02-06 20:38:51,922 Performing task 'reboot' produced exception: name 'logOut' is not defined
+2020-02-06 20:38:51,922 Performed task: reboot
+2020-02-06 20:38:52,021 Finished action: reboot_archer_c7
+2020-02-06 20:38:52,021 
+2020-02-06 20:38:52,021 ##### Router Automator Done #####
+2020-02-06 20:38:52,021 
+2020-02-06 20:43:38,967 
+2020-02-06 20:43:38,967 ####### Router Automator #######
+2020-02-06 20:43:38,967 Discovered platform: Platform.win_64
+2020-02-06 20:43:38,967 No initialization needed for this platform
+2020-02-06 20:43:38,967 
+2020-02-06 20:43:38,967 Performing action: reboot_archer_c7
+2020-02-06 20:43:38,967 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:43:47,022 Performed task: login
+2020-02-06 20:43:53,244 Performing task 'reboot' produced exception: 'WebDriverWait' object has no attribute 'Quit'
+2020-02-06 20:43:53,244 Performed task: reboot
+2020-02-06 20:43:53,314 Finished action: reboot_archer_c7
+2020-02-06 20:43:53,314 
+2020-02-06 20:43:53,330 ##### Router Automator Done #####
+2020-02-06 20:43:53,330 
+2020-02-06 20:44:18,696 
+2020-02-06 20:44:18,696 ####### Router Automator #######
+2020-02-06 20:44:18,711 Discovered platform: Platform.win_64
+2020-02-06 20:44:18,711 No initialization needed for this platform
+2020-02-06 20:44:18,711 
+2020-02-06 20:44:18,711 Performing action: reboot_archer_c7
+2020-02-06 20:44:18,711 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:44:26,701 Performed task: login
+2020-02-06 20:44:32,962 Performing task 'reboot' produced exception: 'WebDriver' object has no attribute 'Quit'
+2020-02-06 20:44:32,962 Performed task: reboot
+2020-02-06 20:44:33,048 Finished action: reboot_archer_c7
+2020-02-06 20:44:33,048 
+2020-02-06 20:44:33,048 ##### Router Automator Done #####
+2020-02-06 20:44:33,048 
+2020-02-06 20:44:59,267 
+2020-02-06 20:44:59,267 ####### Router Automator #######
+2020-02-06 20:44:59,267 Discovered platform: Platform.win_64
+2020-02-06 20:44:59,267 No initialization needed for this platform
+2020-02-06 20:44:59,267 
+2020-02-06 20:44:59,267 Performing action: reboot_archer_c7
+2020-02-06 20:44:59,267 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 20:45:07,397 Performed task: login
+2020-02-06 20:45:13,626 Performing task 'reboot' produced exception: 'WebDriver' object has no attribute 'Close'
+2020-02-06 20:45:13,626 Performed task: reboot
+2020-02-06 20:45:13,716 Finished action: reboot_archer_c7
+2020-02-06 20:45:13,716 
+2020-02-06 20:45:13,716 ##### Router Automator Done #####
+2020-02-06 20:45:13,716 
+2020-02-06 22:33:10,202 
+2020-02-06 22:33:10,203 ####### Router Automator #######
+2020-02-06 22:33:10,204 Discovered platform: Platform.win_64
+2020-02-06 22:33:10,204 No initialization needed for this platform
+2020-02-06 22:33:10,205 
+2020-02-06 22:33:10,205 Performing action: reboot_archer_c7
+2020-02-06 22:33:10,205 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:33:18,456 Performed task: login
+2020-02-06 22:34:56,393 Unknown exception while performing task 'reboot'
+2020-02-06 22:34:56,394 Performed task: reboot
+2020-02-06 22:34:56,409 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/e60cb0b7e19324cbffb761928f55efe8/window
+2020-02-06 22:34:58,435 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F23D7BD948>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e60cb0b7e19324cbffb761928f55efe8/window
+2020-02-06 22:35:02,372 
+2020-02-06 22:35:02,372 ####### Router Automator #######
+2020-02-06 22:35:02,372 Discovered platform: Platform.win_64
+2020-02-06 22:35:02,372 No initialization needed for this platform
+2020-02-06 22:35:02,372 
+2020-02-06 22:35:02,372 Performing action: reboot_archer_c7
+2020-02-06 22:35:02,372 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:35:10,678 Performed task: login
+2020-02-06 22:35:56,039 Unknown exception while performing task 'reboot'
+2020-02-06 22:35:56,040 Performed task: reboot
+2020-02-06 22:35:56,061 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /session/1bd4ea1ef096d0c036f4482b724bc876/window
+2020-02-06 22:35:58,080 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C71874EA88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1bd4ea1ef096d0c036f4482b724bc876/window
+2020-02-06 22:36:00,093 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C71874E808>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1bd4ea1ef096d0c036f4482b724bc876/window
+2020-02-06 22:36:06,045 
+2020-02-06 22:36:06,045 ####### Router Automator #######
+2020-02-06 22:36:06,047 Discovered platform: Platform.win_64
+2020-02-06 22:36:06,047 No initialization needed for this platform
+2020-02-06 22:36:06,048 
+2020-02-06 22:36:06,048 Performing action: reboot_archer_c7
+2020-02-06 22:36:06,048 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:36:14,824 Performed task: login
+2020-02-06 22:37:51,779 Unknown exception while performing task 'reboot'
+2020-02-06 22:37:51,780 Performed task: reboot
+2020-02-06 22:37:55,255 
+2020-02-06 22:37:55,255 ####### Router Automator #######
+2020-02-06 22:37:55,256 Discovered platform: Platform.win_64
+2020-02-06 22:37:55,257 No initialization needed for this platform
+2020-02-06 22:37:55,258 
+2020-02-06 22:37:55,258 Performing action: reboot_archer_c7
+2020-02-06 22:37:55,258 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:38:03,773 Performed task: login
+2020-02-06 22:38:10,123 Performing task 'reboot' produced exception: Message: bottomLeftFrame
+
+2020-02-06 22:38:10,123 Performed task: reboot
+2020-02-06 22:38:10,201 Finished action: reboot_archer_c7
+2020-02-06 22:38:10,201 
+2020-02-06 22:38:10,201 ##### Router Automator Done #####
+2020-02-06 22:38:10,201 
+2020-02-06 22:42:32,121 
+2020-02-06 22:42:32,122 ####### Router Automator #######
+2020-02-06 22:42:32,123 Discovered platform: Platform.win_64
+2020-02-06 22:42:32,123 No initialization needed for this platform
+2020-02-06 22:42:32,124 
+2020-02-06 22:42:32,124 Performing action: reboot_archer_c7
+2020-02-06 22:42:32,125 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:42:40,030 Performed task: login
+2020-02-06 22:44:01,248 Unknown exception while performing task 'reboot'
+2020-02-06 22:44:01,252 Performed task: reboot
+2020-02-06 22:44:03,641 
+2020-02-06 22:44:03,641 ####### Router Automator #######
+2020-02-06 22:44:03,642 Discovered platform: Platform.win_64
+2020-02-06 22:44:03,643 No initialization needed for this platform
+2020-02-06 22:44:03,643 
+2020-02-06 22:44:03,644 Performing action: reboot_archer_c7
+2020-02-06 22:44:03,644 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:44:11,695 Performed task: login
+2020-02-06 22:44:18,126 Performed task: reboot
+2020-02-06 22:44:18,180 Finished action: reboot_archer_c7
+2020-02-06 22:44:18,180 
+2020-02-06 22:44:18,180 ##### Router Automator Done #####
+2020-02-06 22:44:18,180 
+2020-02-06 22:52:45,882 
+2020-02-06 22:52:45,882 ####### Router Automator #######
+2020-02-06 22:52:45,883 Discovered platform: Platform.win_64
+2020-02-06 22:52:45,884 No initialization needed for this platform
+2020-02-06 22:54:27,172 
+2020-02-06 22:54:27,172 ####### Router Automator #######
+2020-02-06 22:54:27,173 Discovered platform: Platform.win_64
+2020-02-06 22:54:27,173 No initialization needed for this platform
+2020-02-06 22:54:27,174 
+2020-02-06 22:54:27,174 Performing action: reboot_archer_c7
+2020-02-06 22:54:27,174 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:54:35,264 Performed task: login
+2020-02-06 22:54:41,552 Performed task: reboot
+2020-02-06 22:54:41,607 Finished action: reboot_archer_c7
+2020-02-06 22:54:41,607 
+2020-02-06 22:54:41,609 ##### Router Automator Done #####
+2020-02-06 22:54:41,610 
+2020-02-06 22:57:49,120 
+2020-02-06 22:57:49,121 ####### Router Automator #######
+2020-02-06 22:57:49,122 Discovered platform: Platform.win_64
+2020-02-06 22:57:49,122 No initialization needed for this platform
+2020-02-06 22:58:30,227 
+2020-02-06 22:58:30,228 Performing action: reboot_archer_c7
+2020-02-06 22:58:30,230 IP: http://192.168.0.1 username: admin password: Jonjoopera1982 tasks: ['login', 'reboot']
+2020-02-06 22:58:38,473 Performed task: login
+2020-02-06 22:58:44,951 Performed task: reboot
+2020-02-06 22:58:45,001 Finished action: reboot_archer_c7
+2020-02-06 22:58:45,002 
+2020-02-06 22:58:45,004 ##### Router Automator Done #####
+2020-02-06 22:58:45,005 
+2020-02-06 23:01:16,394 
+2020-02-06 23:01:16,394 ####### Router Automator #######
+2020-02-06 23:01:16,396 Discovered platform: Platform.win_64
+2020-02-06 23:01:16,396 No initialization needed for this platform
+2020-02-06 23:01:25,780 
+2020-02-06 23:01:25,780 ####### Router Automator #######
+2020-02-06 23:01:25,782 Discovered platform: Platform.win_64
+2020-02-06 23:01:25,782 No initialization needed for this platform
